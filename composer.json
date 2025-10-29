@@ -1,0 +1,13 @@
+{
+    "name": "engweb3/teste",
+    "description": "projeto que faz teste",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^11.5"
+    },
+  "autoload": {
+    "classmap": [
+      "src"
+    ]
+ }
+}

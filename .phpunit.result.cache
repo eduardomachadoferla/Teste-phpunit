@@ -1,0 +1,1 @@
+{"version":2,"defects":{"MyClassTest::testConcatenateStrings":8},"times":{"MyClassTest::testConcatenateStrings":0.042,"MyClassTest::testSomar":0.041,"MyClassTest::testSubtrair":0,"MyClassTest::testDividir":0,"MyClassTest::testDivisaoPorZero":0.002}}
